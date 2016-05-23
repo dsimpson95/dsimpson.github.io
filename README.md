@@ -1,2 +1,2 @@
-# dsimpson.github.io
-website
+# Diamond Simpson's Website
+Welcome to my website!
